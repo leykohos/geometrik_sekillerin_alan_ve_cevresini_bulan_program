@@ -1,0 +1,3 @@
+﻿  geometrik_sekil_hesaplama_mak.c
+C:\Users\Fatih\source\repos\geometrik_sekil_hesaplama_mak\geometrik_sekil_hesaplama_mak\geometrik_sekil_hesaplama_mak.c(16,14): warning C4305: '=': 'double' iken 'float' olarak kesildi
+  geometrik_sekil_hesaplama_mak.vcxproj -> C:\Users\Fatih\source\repos\geometrik_sekil_hesaplama_mak\x64\Debug\geometrik_sekil_hesaplama_mak.exe
